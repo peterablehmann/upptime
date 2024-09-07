@@ -7,8 +7,8 @@ sites:
     url: https://monitoring.xnee.net
 
 status-website:
-  baseUrl: /upptime # where "repo" is your repository name
-  name: peterablehmann Status
+  cname: upptime.xnee.net
+  name: Upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
