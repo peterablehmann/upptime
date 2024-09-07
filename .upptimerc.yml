@@ -5,6 +5,12 @@ repo: upptime # The name of this repository
 sites:
   - name: Monitoring
     url: https://monitoring.xnee.net
+  - name: Kanidm
+    url: https://idm.xnee.net
+  - name: Paperless
+    url: https://paperless.xnee.net
+  - name: MNS Map
+    url: https://map.mns.xnee.net
 
 status-website:
   cname: upptime.xnee.net
