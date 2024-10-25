@@ -58,7 +58,7 @@
     "url": "https://map.mns.xnee.net",
     "icon": "https://icons.duckduckgo.com/ip3/map.mns.xnee.net.ico",
     "slug": "mns-map",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 593,
     "timeMonth": 546,
     "timeYear": 578,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-25": 0
+    }
   }
 ]
