@@ -40,9 +40,9 @@
     "url": "https://paperless.xnee.net",
     "icon": "https://icons.duckduckgo.com/ip3/paperless.xnee.net.ico",
     "slug": "paperless",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 653,
     "timeMonth": 708,
     "timeYear": 722,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-13": 0
+    }
   },
   {
     "name": "MNS Map",
