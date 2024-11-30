@@ -22,18 +22,20 @@
     "url": "https://idm.xnee.net",
     "icon": "https://icons.duckduckgo.com/ip3/idm.xnee.net.ico",
     "slug": "kanidm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 674,
-    "timeDay": 741,
-    "timeWeek": 633,
-    "timeMonth": 675,
+    "timeDay": 726,
+    "timeWeek": 643,
+    "timeMonth": 676,
     "timeYear": 674,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-30": 0
+    }
   },
   {
     "name": "Paperless",
