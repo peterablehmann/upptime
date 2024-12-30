@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 893,
-    "timeDay": 1151,
-    "timeWeek": 872,
-    "timeMonth": 981,
-    "timeYear": 893,
+    "time": 895,
+    "timeDay": 1153,
+    "timeWeek": 909,
+    "timeMonth": 994,
+    "timeYear": 895,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 719,
-    "timeDay": 974,
-    "timeWeek": 831,
-    "timeMonth": 838,
+    "timeDay": 786,
+    "timeWeek": 838,
+    "timeMonth": 839,
     "timeYear": 719,
     "dailyMinutesDown": {
       "2024-11-30": 34
@@ -43,16 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/paperless.xnee.net.ico",
     "slug": "paperless",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 723,
-    "timeDay": 850,
-    "timeWeek": 687,
-    "timeMonth": 705,
-    "timeYear": 723,
+    "uptimeYear": "99.99%",
+    "time": 726,
+    "timeDay": 1145,
+    "timeWeek": 760,
+    "timeMonth": 723,
+    "timeYear": 726,
     "dailyMinutesDown": {
       "2024-11-13": 24
     }
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 572,
-    "timeDay": 693,
-    "timeWeek": 542,
-    "timeMonth": 584,
+    "timeDay": 605,
+    "timeWeek": 556,
+    "timeMonth": 588,
     "timeYear": 572,
     "dailyMinutesDown": {}
   }
